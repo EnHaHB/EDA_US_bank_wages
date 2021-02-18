@@ -1,4 +1,4 @@
-# EDA_project_all
+# Exploratory Data Analysis for US bank wages
 
 This project is centered around exploratory data 
 analysis techniques and modeling data using linear regression 
@@ -15,10 +15,10 @@ a multivariate linear regression model.
 
 ## Deliverables
 
-* A well documented Jupyter notebook.
-* A Python script for training the model, printing out the model statistics and saving the model.
+* A well documented [Jupyter notebook](EDA_US_bank_wages.ipynb).
+* A [Python script](US_bank_wages_model.py) for training the model, printing out the model statistics and saving the model.
 * An organized README.md file (How did I do?)
-* A short presentation of the key findings.
+* A short [presentation](US_bank_wages_presentation.pdf) of the key findings.
 
 ## Infos
 
